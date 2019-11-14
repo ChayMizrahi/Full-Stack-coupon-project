@@ -1,3 +1,3 @@
-# Full-Stack-coupon-project
+# Coupon project
 
-chayyaya
+This project id the finelproject of Jhob bryce collage.
