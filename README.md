@@ -15,9 +15,9 @@ Customer interface - could buys the coupons that the companies produced.
 
 # How to run
 
-1. [Downloed](https://github.com/ChayMizrahi/Full-Stack-coupon-project/archive/master.zip) this project.
+1. [Download ](https://github.com/ChayMizrahi/Full-Stack-coupon-project/archive/master.zip) this project.
 2. Extract the files.
-3. Copy the path of the unzipped fileds and open eclipse.
-4. In Eclipse: File --> import --> select: Existing maven projects --> next --> pase the path in 'ROOT Directiry' --> Finish.
+3. Copy the path of the unzipped fileds and open 'eclipse'.
+4. In Eclipse: File --> import --> select: Existing maven projects --> next --> paste the path of the files in 'ROOT Directiry' --> Finish.
 5. Open the project --> src/main/java --> com.chay.couponprojectspring --> right click on 'CouponProjectSpringApplication' --> run as --> java application.
-6. Oepn your browser and rifirect to http://localhost:8080/
+6. When spring boot finish run open your browser and go to http://localhost:8080/.
